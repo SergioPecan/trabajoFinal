@@ -14,7 +14,7 @@ SecurityBreach es una solución digital diseñada para proteger páginas web de 
 
 SecurityBreach está dirigido a:
 
-- Desarrolladores web que desean proteger sus sitios y aplicaciones en línea.
+- Desarrolladores web que desean proteger sus sitios y las aplicaciones en línea.
 - Administradores de sistemas interesados en fortalecer la seguridad de su infraestructura web.
 - Propietarios de sitios web y comercios en línea que buscan mantener la confidencialidad y la integridad de los datos de sus usuarios.
 

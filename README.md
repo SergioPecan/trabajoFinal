@@ -15,7 +15,7 @@ SecurityBreach es una solución digital diseñada para proteger páginas web de 
 SecurityBreach está dirigido a:
 
 - Desarrolladores web que desean proteger sus sitios y aplicaciones en línea.
-- Administradores de sistemas interesados en fortalecer la seguridad de sus infraestructuras web.
+- Administradores de sistemas interesados en fortalecer la seguridad de su infraestructura web.
 - Propietarios de sitios web y comercios en línea que buscan mantener la confidencialidad y la integridad de los datos de sus usuarios.
 
 ## Características Principales
@@ -24,7 +24,7 @@ SecurityBreach está dirigido a:
 
 - Firewall de aplicaciones web (WAF): Nuestra aplicación incluye un WAF que bloquea los ataques comunes y protege tus aplicaciones web contra amenazas conocidas.
 
-- Registro y análisis de registros: SecurityBreach registra todos los eventos de seguridad y proporciona análisis detallados para que puedas tomar medidas correctivas.
+- Registro y análisis de registros: SecurityBreach registra todos los eventos de seguridad y proporciona un análisis detallado para que puedas tomar medidas correctivas.
 
 - Actualizaciones automáticas: Mantenemos nuestras bases de datos de amenazas actualizadas de manera constante para asegurarnos de que estés protegido contra las últimas amenazas.
 

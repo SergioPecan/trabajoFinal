@@ -9,7 +9,7 @@ SecurityBreach es una solución digital diseñada para proteger páginas web de 
 - Ocampo Osorio, Milene Ahomy
 - Jayo Aybar, Edwar Aquiles 
 - Pecan Pariona, Sergio Joel 
-
+          
 ## Segmento Objetivo
 
 SecurityBreach está dirigido a:

@@ -35,7 +35,7 @@ SecurityBreach está dirigido a:
 ## Cómo Empezar
 
 1. Clona este repositorio o descarga la última versión.
-2. Sigue las instrucciones de instalación en la documentación adjunto.
+2. Sigue las instrucciones de instalación en la documentación adjuntad0.
 3. Configura las opciones de seguridad según tus requisitos.
 4. ¡Comienza a proteger tu sitio web con SecurityBreach!
 

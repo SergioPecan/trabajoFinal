@@ -26,9 +26,9 @@ SecurityBreach está dirigido a:
 
 - Registro y análisis de registros: SecurityBreach registra todos los eventos de seguridad y proporciona análisis detallados para que puedas tomar medidas correctivas.
 
-- Actualizaciones automáticas: Mantenemos nuestras bases de datos de amenazas actualizadas de manera constante, para asegurarnos de que estés protegido contra las últimas amenazas.
+- Actualizaciones automáticas: Mantenemos nuestras bases de datos de amenazas actualizadas de manera constante para asegurarnos de que estés protegido contra las últimas amenazas.
 
-- Alertas en tiempo real: Recibe notificaciones instantáneas cuando se detecten actividades sospechosas o ataques en curso en tu sitio.
+- Alertas en tiempo real: Recibe notificaciones instantáneas cuando se detecten "actividades sospechosas" o "ataques en curso" en tu sitio.
 
 - Personalización: Ajusta las políticas de seguridad según tus necesidades específicas y personaliza las reglas del firewall para tu aplicación.
 
